@@ -1,7 +1,7 @@
 #include<iostream>
 #include<vector>
 #include<math.h>
-
+nalos
 
 using namespace std;
 
